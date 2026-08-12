@@ -314,7 +314,7 @@ The next goal is to take the foundation developed here and apply it to a broader
 I completed CS50P and received the official CS50 certificate for the course.
 
 URL link:
-https://cs50.harvard.edu/certificates/](https://cs50.harvard.edu/certificates/3ca3c715-cacc-41ca-b80c-633fa30a8bf9
+https://certificates.cs50.io/3ca3c715-cacc-41ca-b80c-633fa30a8bf9.pdf?size=letter
 
 ---
 
